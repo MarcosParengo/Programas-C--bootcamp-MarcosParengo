@@ -1,0 +1,12 @@
+B:\Programas\tipos-de-datos\obj\Debug\netcoreapp3.0\tipos-de-datos.csprojAssemblyReference.cache
+B:\Programas\tipos-de-datos\obj\Debug\netcoreapp3.0\tipos-de-datos.csproj.CoreCompileInputs.cache
+B:\Programas\tipos-de-datos\obj\Debug\netcoreapp3.0\tipos-de-datos.AssemblyInfoInputs.cache
+B:\Programas\tipos-de-datos\obj\Debug\netcoreapp3.0\tipos-de-datos.AssemblyInfo.cs
+B:\Programas\tipos-de-datos\bin\Debug\netcoreapp3.0\tipos-de-datos.exe
+B:\Programas\tipos-de-datos\bin\Debug\netcoreapp3.0\tipos-de-datos.deps.json
+B:\Programas\tipos-de-datos\bin\Debug\netcoreapp3.0\tipos-de-datos.runtimeconfig.json
+B:\Programas\tipos-de-datos\bin\Debug\netcoreapp3.0\tipos-de-datos.runtimeconfig.dev.json
+B:\Programas\tipos-de-datos\bin\Debug\netcoreapp3.0\tipos-de-datos.dll
+B:\Programas\tipos-de-datos\bin\Debug\netcoreapp3.0\tipos-de-datos.pdb
+B:\Programas\tipos-de-datos\obj\Debug\netcoreapp3.0\tipos-de-datos.dll
+B:\Programas\tipos-de-datos\obj\Debug\netcoreapp3.0\tipos-de-datos.pdb

@@ -1,0 +1,7 @@
+Sentencias de control
+ 
+1. Solicitar el ingreso de un número x. Luego solicitar  ingresar x números y mostrar su promedio.
+ 	
+2. Ingresar un número y mostrar el cuadrado del mismo.El número debe ser mayor que cero, en caso de error que aparezca el mensaje "ERROR. El número ingresado debe ser distinto a cero".
+ 
+3. Ingresar una frase por línea de comandos. Imprimir la cantidad de vocales, minusculas, mayusculas y numeros que hay en la frase.

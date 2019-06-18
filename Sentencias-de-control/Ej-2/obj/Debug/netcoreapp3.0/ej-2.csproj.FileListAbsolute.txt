@@ -1,0 +1,12 @@
+B:\Programas\sentencias-de-control\ej-2\obj\Debug\netcoreapp3.0\ej-2.csprojAssemblyReference.cache
+B:\Programas\sentencias-de-control\ej-2\obj\Debug\netcoreapp3.0\ej-2.csproj.CoreCompileInputs.cache
+B:\Programas\sentencias-de-control\ej-2\obj\Debug\netcoreapp3.0\ej-2.AssemblyInfoInputs.cache
+B:\Programas\sentencias-de-control\ej-2\obj\Debug\netcoreapp3.0\ej-2.AssemblyInfo.cs
+B:\Programas\sentencias-de-control\ej-2\bin\Debug\netcoreapp3.0\ej-2.exe
+B:\Programas\sentencias-de-control\ej-2\bin\Debug\netcoreapp3.0\ej-2.deps.json
+B:\Programas\sentencias-de-control\ej-2\bin\Debug\netcoreapp3.0\ej-2.runtimeconfig.json
+B:\Programas\sentencias-de-control\ej-2\bin\Debug\netcoreapp3.0\ej-2.runtimeconfig.dev.json
+B:\Programas\sentencias-de-control\ej-2\bin\Debug\netcoreapp3.0\ej-2.dll
+B:\Programas\sentencias-de-control\ej-2\bin\Debug\netcoreapp3.0\ej-2.pdb
+B:\Programas\sentencias-de-control\ej-2\obj\Debug\netcoreapp3.0\ej-2.dll
+B:\Programas\sentencias-de-control\ej-2\obj\Debug\netcoreapp3.0\ej-2.pdb

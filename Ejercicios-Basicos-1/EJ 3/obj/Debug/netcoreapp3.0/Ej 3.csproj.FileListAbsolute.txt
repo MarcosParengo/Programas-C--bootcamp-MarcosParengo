@@ -1,0 +1,12 @@
+B:\programas\Ejercicios Basicos 1\Ej 3\bin\Debug\netcoreapp3.0\Ej 3.exe
+B:\programas\Ejercicios Basicos 1\Ej 3\bin\Debug\netcoreapp3.0\Ej 3.deps.json
+B:\programas\Ejercicios Basicos 1\Ej 3\bin\Debug\netcoreapp3.0\Ej 3.runtimeconfig.json
+B:\programas\Ejercicios Basicos 1\Ej 3\bin\Debug\netcoreapp3.0\Ej 3.runtimeconfig.dev.json
+B:\programas\Ejercicios Basicos 1\Ej 3\bin\Debug\netcoreapp3.0\Ej 3.dll
+B:\programas\Ejercicios Basicos 1\Ej 3\bin\Debug\netcoreapp3.0\Ej 3.pdb
+B:\programas\Ejercicios Basicos 1\Ej 3\obj\Debug\netcoreapp3.0\Ej 3.csprojAssemblyReference.cache
+B:\programas\Ejercicios Basicos 1\Ej 3\obj\Debug\netcoreapp3.0\Ej 3.csproj.CoreCompileInputs.cache
+B:\programas\Ejercicios Basicos 1\Ej 3\obj\Debug\netcoreapp3.0\Ej 3.AssemblyInfoInputs.cache
+B:\programas\Ejercicios Basicos 1\Ej 3\obj\Debug\netcoreapp3.0\Ej 3.AssemblyInfo.cs
+B:\programas\Ejercicios Basicos 1\Ej 3\obj\Debug\netcoreapp3.0\Ej 3.dll
+B:\programas\Ejercicios Basicos 1\Ej 3\obj\Debug\netcoreapp3.0\Ej 3.pdb

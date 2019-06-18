@@ -1,0 +1,14 @@
+1.	Write a C# Sharp program to print 	Hello and your name in a separate line.
+	Expected Output : Hello: Murray Bozinsky
+
+2. 	Write a C# Sharp program to print the sum of two numbers.
+
+3.	Write a C# Sharp program to print the result of dividing two numbers.
+
+4. 	Write a C# Sharp program to print the result of the specified operations.
+	Test data:
+
+	-1 + 4 * 6 -> Expected Output: 23
+	( 35+ 5 ) % 7 -> Expected Output: 5
+	14 + -4 * 6 / 11 -> Expected Output: 12
+	2 + 15 / 6 * 1 - 7 % 2 -> Expected Output: 3

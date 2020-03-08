@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\promedio\bin\Debug\netcoreapp2.2\Desktop.deps.json
+C:\Users\HP\Desktop\promedio\bin\Debug\netcoreapp2.2\Desktop.runtimeconfig.json
+C:\Users\HP\Desktop\promedio\bin\Debug\netcoreapp2.2\Desktop.runtimeconfig.dev.json
+C:\Users\HP\Desktop\promedio\bin\Debug\netcoreapp2.2\Desktop.dll
+C:\Users\HP\Desktop\promedio\bin\Debug\netcoreapp2.2\Desktop.pdb
+C:\Users\HP\Desktop\promedio\obj\Debug\netcoreapp2.2\Desktop.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\promedio\obj\Debug\netcoreapp2.2\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\promedio\obj\Debug\netcoreapp2.2\Desktop.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\promedio\obj\Debug\netcoreapp2.2\Desktop.AssemblyInfo.cs
+C:\Users\HP\Desktop\promedio\obj\Debug\netcoreapp2.2\Desktop.dll
+C:\Users\HP\Desktop\promedio\obj\Debug\netcoreapp2.2\Desktop.pdb

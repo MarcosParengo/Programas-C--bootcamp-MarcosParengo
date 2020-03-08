@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\HP\\Desktop\\CS-Bootcamp\\ejercicio_objetos\\ejercicio_objetos.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\HP\\Desktop\\CS-Bootcamp\\ejercicio_objetos\\ejercicio_objetos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\HP\\Desktop\\CS-Bootcamp\\ejercicio_objetos\\ejercicio_objetos.csproj",
+        "projectName": "ejercicio_objetos",
+        "projectPath": "c:\\Users\\HP\\Desktop\\CS-Bootcamp\\ejercicio_objetos\\ejercicio_objetos.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\HP\\Desktop\\CS-Bootcamp\\ejercicio_objetos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C-Bootcamp\naranja\bin\Debug\netcoreapp2.2\naranja.deps.json
+C:\Users\HP\Desktop\C-Bootcamp\naranja\bin\Debug\netcoreapp2.2\naranja.runtimeconfig.json
+C:\Users\HP\Desktop\C-Bootcamp\naranja\bin\Debug\netcoreapp2.2\naranja.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C-Bootcamp\naranja\bin\Debug\netcoreapp2.2\naranja.dll
+C:\Users\HP\Desktop\C-Bootcamp\naranja\bin\Debug\netcoreapp2.2\naranja.pdb
+C:\Users\HP\Desktop\C-Bootcamp\naranja\obj\Debug\netcoreapp2.2\naranja.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C-Bootcamp\naranja\obj\Debug\netcoreapp2.2\naranja.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Bootcamp\naranja\obj\Debug\netcoreapp2.2\naranja.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Bootcamp\naranja\obj\Debug\netcoreapp2.2\naranja.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Bootcamp\naranja\obj\Debug\netcoreapp2.2\naranja.dll
+C:\Users\HP\Desktop\C-Bootcamp\naranja\obj\Debug\netcoreapp2.2\naranja.pdb

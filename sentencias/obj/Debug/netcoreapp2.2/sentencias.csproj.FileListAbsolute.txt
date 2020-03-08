@@ -1,0 +1,11 @@
+C:\Users\leobr\Desktop\sentencias\bin\Debug\netcoreapp2.2\sentencias.deps.json
+C:\Users\leobr\Desktop\sentencias\bin\Debug\netcoreapp2.2\sentencias.runtimeconfig.json
+C:\Users\leobr\Desktop\sentencias\bin\Debug\netcoreapp2.2\sentencias.runtimeconfig.dev.json
+C:\Users\leobr\Desktop\sentencias\bin\Debug\netcoreapp2.2\sentencias.dll
+C:\Users\leobr\Desktop\sentencias\bin\Debug\netcoreapp2.2\sentencias.pdb
+C:\Users\leobr\Desktop\sentencias\obj\Debug\netcoreapp2.2\sentencias.csprojAssemblyReference.cache
+C:\Users\leobr\Desktop\sentencias\obj\Debug\netcoreapp2.2\sentencias.csproj.CoreCompileInputs.cache
+C:\Users\leobr\Desktop\sentencias\obj\Debug\netcoreapp2.2\sentencias.AssemblyInfoInputs.cache
+C:\Users\leobr\Desktop\sentencias\obj\Debug\netcoreapp2.2\sentencias.AssemblyInfo.cs
+C:\Users\leobr\Desktop\sentencias\obj\Debug\netcoreapp2.2\sentencias.dll
+C:\Users\leobr\Desktop\sentencias\obj\Debug\netcoreapp2.2\sentencias.pdb

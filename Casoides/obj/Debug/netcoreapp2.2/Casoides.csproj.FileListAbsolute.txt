@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\obj\Debug\netcoreapp2.2\Casoides.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\obj\Debug\netcoreapp2.2\Casoides.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\obj\Debug\netcoreapp2.2\Casoides.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\obj\Debug\netcoreapp2.2\Casoides.AssemblyInfo.cs
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\bin\Debug\netcoreapp2.2\Casoides.deps.json
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\bin\Debug\netcoreapp2.2\Casoides.runtimeconfig.json
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\bin\Debug\netcoreapp2.2\Casoides.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\bin\Debug\netcoreapp2.2\Casoides.dll
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\bin\Debug\netcoreapp2.2\Casoides.pdb
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\obj\Debug\netcoreapp2.2\Casoides.dll
+C:\Users\HP\Desktop\C-Bootcamp\Casoides\obj\Debug\netcoreapp2.2\Casoides.pdb

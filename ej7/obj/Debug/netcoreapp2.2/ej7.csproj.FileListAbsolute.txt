@@ -1,0 +1,11 @@
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\bin\Debug\netcoreapp2.2\ej7.deps.json
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\bin\Debug\netcoreapp2.2\ej7.runtimeconfig.json
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\bin\Debug\netcoreapp2.2\ej7.runtimeconfig.dev.json
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\bin\Debug\netcoreapp2.2\ej7.dll
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\bin\Debug\netcoreapp2.2\ej7.pdb
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\obj\Debug\netcoreapp2.2\ej7.csprojAssemblyReference.cache
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\obj\Debug\netcoreapp2.2\ej7.csproj.CoreCompileInputs.cache
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\obj\Debug\netcoreapp2.2\ej7.AssemblyInfoInputs.cache
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\obj\Debug\netcoreapp2.2\ej7.AssemblyInfo.cs
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\obj\Debug\netcoreapp2.2\ej7.dll
+C:\Users\leobr\Desktop\C-Bootcamp\ej7\obj\Debug\netcoreapp2.2\ej7.pdb

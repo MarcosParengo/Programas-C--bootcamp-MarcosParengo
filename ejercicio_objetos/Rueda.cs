@@ -1,0 +1,4 @@
+namespace ejercicio_objetos
+{
+    
+}
